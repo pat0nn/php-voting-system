@@ -2,6 +2,6 @@
 
 
 
-[Admin](https://admi.phambatrong.com)
+[Admin](https://admin.phambatrong.com)
 
 [User](https://phambatrong.com)
