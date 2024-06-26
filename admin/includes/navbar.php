@@ -1,4 +1,5 @@
 <header class="main-header">
+    <base href="https://phambatrong.com">
     <!-- Logo -->
     <a
         href="#"
