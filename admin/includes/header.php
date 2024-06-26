@@ -2,13 +2,15 @@
 <html>
 
 <head>
-    <base href="https://phambatrong.com">
+
     <meta charset="utf-8">
     <meta
         http-equiv="X-UA-Compatible"
         content="IE=edge"
     >
-    <title>Voting System using PHP</title>
+
+    <title>Quản lý bầu cử</title>
+
 
     <link
         rel="icon"
